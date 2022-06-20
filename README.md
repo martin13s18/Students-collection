@@ -16,3 +16,5 @@ The students are added and loaded via AJAX requests to the server data;
 The response for this requests are added to the table with DOM manipulations
 
 NOTE: This functionality does not working with empty input values!
+
+Used URL for this task: http://localhost:3030/jsonstore/collections/students;
